@@ -1,0 +1,12 @@
+1. Panel administratora:
+  -dodawanie/edycja/ kategorii
+  -dodawanie/edycja/ u¿ytkowników
+  -dodawanie/edycja/ walorów g³ównych
+
+2. Panel u¿ytkownika:
+  -dodawanie/edycja "moich walorów"
+  -(opcjonalnie) powiadomienia
+
+3. Wykresy:
+  -Wykresy bêd¹ takie z grubsza jak w stooq, czyli po lewej tabelka z konkretnymi danymi (bardziej szczegó³owymi ni¿ w g³ównych tabelach) dla danego waloru, a po prawej wykres; poni¿e opcje renderowania wykresu, czyli przedzia³ czasowy (min. 5-10 dni, bo rozdzielczoœæ jak¹ daje yahoo finance to 1 dzieñ) oraz rodzaj wykresu (œwiece, liniowy) opcjonlnie porównanie z przebiegiem wykresu innego waloru na tym samym wykresie oraz wybór skalowania: skala dziesiêtna, skala logarytmiczna.
+

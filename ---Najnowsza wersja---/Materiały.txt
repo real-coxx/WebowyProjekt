@@ -1,0 +1,13 @@
+Biblioteka do wykresów:
+
+http://www.jqplot.com/
+
+
+
+Opis YahooFinance:
+
+http://greenido.wordpress.com/2009/12/22/yahoo-finance-hidden-api/
+
+
+
+

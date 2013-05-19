@@ -10,4 +10,7 @@ http://greenido.wordpress.com/2009/12/22/yahoo-finance-hidden-api/
 
 
 
+Biblioteka do interfejsu Javascript:
+
+jqueryUI
 

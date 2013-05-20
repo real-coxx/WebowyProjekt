@@ -12,8 +12,8 @@
   poni¿ej opcje renderowania wykresu, czyli przedzia³ czasowy 
   (min. 5-10 dni, bo rozdzielczoœæ jak¹ daje yahoo finance to 1 dzieñ) oraz rodzaj wykresu 
   (œwiece, liniowy) opcjonlnie porównanie z przebiegiem wykresu innego waloru na tym samym wykresie 
-  oraz wybór skalowania: skala dziesiêtna, skala logarytmiczna. DOROBI£EM WIDOK SZCZEGOLOW I WYBRALEM
-  BIBLIOTEKE DO WYKRESOWANIA - SZCZEGOLY W MATERIALACH I W PROJEKCIE
+  oraz wybór skalowania: skala dziesiêtna, skala logarytmiczna. 
+  APLIKACJA PRAWIE GOTOWA!
 
 4. Wygl¹d:
   -Dorobiæ CSS-y do wszystkich widoków
